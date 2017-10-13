@@ -1,5 +1,5 @@
 # WAV2PCM
-------
+
 The idea with this small module is to create a converter for a wav file to pcm. 
 
 **Input:** <file name>.wav
