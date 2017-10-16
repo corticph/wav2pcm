@@ -5,7 +5,7 @@ setup(
     version='0.9.0',
     packages=['wav2pcm',],
     url='',
-    license='',
+    license='MIT',
     author='Corti dev team',
     author_email='',
     description='The official wav2pcm done by Corti'
