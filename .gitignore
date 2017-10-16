@@ -39,3 +39,5 @@ include/
 *.DS_Store
 .AppleDouble
 .LSOverride
+
+test/*.wav
